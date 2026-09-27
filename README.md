@@ -1,10 +1,9 @@
-# STM32-Projects
+## Embedded Projects
 
-This repository contains the STM32 projects that I developed while learning embedded systems.
+This repository contains the STM32, ESP32
 
 Contents
 
-- MLX90640 Thermal Sensor
-- SG90 Servo Motor
-- LED Blink Examples
-- Troubleshooting Codes
+- STM32
+- ESP32
+- Drone project
